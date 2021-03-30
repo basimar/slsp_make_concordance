@@ -4,7 +4,7 @@ use warnings;
 use Data::Dumper;
 
 # Generiert Deduplizierungs-Statistik basierend auf SLSP-Konkordanz (SLSP_SP1_System-number-concordance_20201127.txt)
-# Input: SLSP-Konkordanz (SLSP_SP1_System-number-concordance_20201127.txt)
+# Input: SLSP-Konkordanz (SLSP_SP1_System-number-concordance_20201127.txt, see https://here.slsp.ch/display/PSI/Migration%3A+Bibliographic+records)
 # Output: https://here.slsp.ch/display/PSI/Migration%3A+Bibliographic+records
 
      
